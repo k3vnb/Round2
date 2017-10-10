@@ -1,0 +1,24 @@
+body {
+  padding: 20px;
+  background-color: lightgreen;
+}
+h1 {
+  text-align: center;
+  border-radius: 20px;
+  border-style: double;
+  border-color: orange;
+  border-width: 4px;
+}
+h1, h2 {
+  font-family: sans-serif;
+  font-weight: 30px;
+  color: blueviolet
+}
+img {
+  width: 200px;
+  height: auto;
+  border-color: brown;
+  border-spacing: 3px;
+  border-width: 4px;
+  border-style: solid;
+}
